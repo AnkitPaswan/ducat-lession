@@ -20,7 +20,27 @@ console.log(a | b);
 
 
 // XOR (^)
-let m = 10;
-let n = 11;
+// let m = 10;
+// let n = 11;
 
-console.log(m ^ n);
+// console.log(m ^ n);
+
+
+// LEFT SHIFT (<<)
+// let m = 10;
+// console.log(m << 2);
+
+
+// RIGHT SHIFT (>>)
+// let m = 10;
+// console.log(m >> 2);
+
+//ZERO-FILL RIGHT SHIFT (>>>)
+let m = -10;
+console.log(m >>> 2);
+
+
+//NOT (~)
+// let m = 10;
+// console.log(~m);
+
