@@ -35,11 +35,11 @@ console.log(result);  // Output: ankit paswan
 
 
 //upper string to lower string 
-var str = "IM MERN STACK TRAINEE AT DUCAT";
+// var str = "IM MERN STACK TRAINEE AT DUCAT";
 
-for (var i = 0; i < str.length; i++) {
-    if (str[i] >= 'A' && str[i] <= 'z') {
-        console.log(String.fromCharCode(str.charCodeAt(i) + 32));
-    }
-}
+// for (var i = 0; i < str.length; i++) {
+//     if (str[i] >= 'A' && str[i] <= 'z') {
+//         console.log(String.fromCharCode(str.charCodeAt(i) + 32));
+//     }
+// }
 
